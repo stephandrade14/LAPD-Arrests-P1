@@ -1,0 +1,6 @@
+DDRESS,NAME,MATCH_ADDR,MATCH_TYPE,LATITUDE,LONGITUDE
+"Wilshire Blvd, Los Angeles, CA",Datapoint 1,"Wilshire Blvd, Los Angeles, CA",ROOFTOP,34.050874,-118.260507
+"Magnolia, Los Angeles, CA",Datapoint 5,"Magnolia, Los Angeles, CA",ROOFTOP,34.036392,-118.287045
+"Oceanfront Walk, Los Angeles, CA",Datapoint 3,,APPROXIMATE,37.25022,-119.75126
+"Lemongrove, Los Angeles, CA",Datapoint 4,"Lemongrove, Los Angeles, CA",ROOFTOP,34.086273,-118.30046
+"Balboa Ave, Los Angeles, CA",Datapoint 6,"Balboa Ave, Los Angeles, CA",ROOFTOP,34.972654,-118.243871
